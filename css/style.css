@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #1d10c6;
-    --secondary: #250ba4;
+    --primary: #099c64;
+    --secondary: #0ba45a;
     --light: #F8F2F0;
-    --dark: #060315;
+    --dark: #03010b;
 }
 
 .fw-medium {
@@ -215,8 +215,8 @@
 
 .header-carousel .owl-nav .owl-prev:hover,
 .header-carousel .owl-nav .owl-next:hover {
-    background: #00008B;
-    border-color: #00008B;
+    background: #027855;
+    border-color: #027855;
 }
 
 .page-header {
